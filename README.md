@@ -14,6 +14,8 @@ Please visit the deployed project at:
 ## Usage
 Introduction to Javascript. See the detailed instructions below.
 
+![Image of the App](https://gt.bootcampcontent.com/GT-Coding-Boot-Camp/GT-ATL-FSF-PT-11-2019-U-C/raw/master/03-JavaScript/02-Homework/Assets/03-JavaScript-homework-demo.png)
+
 ### Instructions
 
 Create an application that generates a random password based on user-selected criteria. This app will run in the browser and feature dynamically updated HTML and CSS powered by your JavaScript code.
