@@ -24,6 +24,9 @@ function generatePass(){
     if(Totlength <8 || Totlength > 128){
         alert("It is recommended to have a password between 8 and 128 characters long!\nPlease start over.");
     }
+
+// Confirm the rest of character conditions
+    
     else{
         if(confirm("Would you like your password to contain upper case letters?")){
             Array.prototype.push.apply(allChars, abcUpperArr);
@@ -55,13 +58,11 @@ function generatePass(){
         document.getElementById("password").innerHTML = resultPass;
    }
 
-   // Bonus
+// Bonus! function to copy password to clipboard
 
-   function copyPass(){
+function copyPass(){
 
-    document.getElementById("clipboard").select();
-    document.execCommand("copy");
-    alert('Password copied to clipboard!');
-    };
-
-       
+    document.querySelector("textarea").select();
+    document.execCommand("Copy");
+    alert("Password copied to clipboard!");
+}
