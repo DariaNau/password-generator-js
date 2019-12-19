@@ -9,7 +9,7 @@ This application is also responsive, ensuring that it adapts to multiple screen 
 
 ## Installation
 
-Please visit the deployed project at: 
+Please visit the deployed project at: https://darianau.github.io/password-generator-js/ 
 
 ## Usage
 Introduction to Javascript. See the detailed instructions below.
