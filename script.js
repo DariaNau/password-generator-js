@@ -54,4 +54,14 @@ function generatePass(){
         }
         document.getElementById("password").innerHTML = resultPass;
    }
+
+   // Bonus
+
+   function copyPass(){
+
+    document.getElementById("clipboard").select();
+    document.execCommand("copy");
+    alert('Password copied to clipboard!');
+    };
+
        
