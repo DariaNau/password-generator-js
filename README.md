@@ -14,7 +14,7 @@ Please visit the deployed project at:
 ## Usage
 Introduction to Javascript. See the detailed instructions below.
 
-![Image of the App](https://gt.bootcampcontent.com/GT-Coding-Boot-Camp/GT-ATL-FSF-PT-11-2019-U-C/raw/master/03-JavaScript/02-Homework/Assets/03-JavaScript-homework-demo.png)
+![Image of the App](03-JavaScript-homework-demo.png)
 
 ### Instructions
 
