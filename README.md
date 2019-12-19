@@ -1,2 +1,2 @@
 # password-generator-js
-first javescript experience
+first javascript experience
