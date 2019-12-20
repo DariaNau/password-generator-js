@@ -19,7 +19,6 @@ function generatePass(){
     var allChars = [];
     var resultPass = "";
 
-
 // Set dynamic variables
 
     var Totlength = prompt("How many characters would you like your password to be?");
@@ -54,7 +53,7 @@ function generatePass(){
 // Run for loop to use confirmed information and generate password as a result
 
         else{
-            for(var i =0;i<Totlength;i++){
+            for(var i=0; i<Totlength; i++){
                 var random = Math.floor(Math.random()*allChars.length);
                 resultPass += allChars[random];
             }
