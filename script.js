@@ -34,7 +34,7 @@ function generatePass(){
             Array.prototype.push.apply(allChars, abcUpperArr);
         }
 
-        if(confirm("@ould you like your password to contain lower case letters?")){
+        if(confirm("Would you like your password to contain lower case letters?")){
             Array.prototype.push.apply(allChars, abcLowerArr);
         }
 
